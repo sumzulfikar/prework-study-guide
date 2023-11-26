@@ -2,10 +2,8 @@
 
 ## Description
 
-The Prework Study Guide project is a web application that enables boot camp studenta
-to view the prework notes  in a structured wwebpage so that can easily find and read the information.
-Select Console from the Developer tool
-Theere are
+The Prework Study Guide project is a web application that enables boot camp students
+to view the prework notes  in a structured webpage so that can easily find and read the information.
 
 
 
